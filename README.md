@@ -1,6 +1,6 @@
-# Welcome to the home of the Privacy Security Anonymity (aka PSA) community website.
+# Welcome to the home of the Privacy Security Anonymity (aka PSA) community.
 
-## Privacy Security Anonymity Community Matrix chatrooms rules:
+## Community Matrix chatrooms rules:
 
 You will find here the default rules for the rooms part of the PSA Community. 
 
