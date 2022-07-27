@@ -1,0 +1,35 @@
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: true
+theme: jekyll-theme-cayman
+title: "Privacy Security Anonnymity Community"
+description: 
+tagline: Privacy Security Anonnymity Community
+author: AnonymousPlanet
+github:
+  home_url: index.html
+  license_url: LICENSE.html
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      sitemap: true
+locale: "en-US"
+author:
+  name: AnonymousPlanet
+social:
+  name: AnonymousPlanet
+optional_front_matter:
+  remove_originals: true
+exclude:
+
