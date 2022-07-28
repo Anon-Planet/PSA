@@ -29,6 +29,11 @@ author:
   name: AnonymousPlanet
 social:
   name: AnonymousPlanet
+  links:
+    - https://twitter.com/AnonyPla
+    - https://github.com/Anon-Planet
+    - https://matrix.to/#/#privacy-security-anonymity:matrix.org
+    - https://mastodon.social/@anonymousplanet
 optional_front_matter:
   remove_originals: true
 exclude:
