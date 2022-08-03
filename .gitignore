@@ -1,4 +1,3 @@
-# site build files
 _site
 .sass-cache
 Gemfile.lock
