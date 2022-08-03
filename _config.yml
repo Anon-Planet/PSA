@@ -6,17 +6,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-optional-front-matter
+  - "jekyll-github-metadata"
 relative_links:
   enabled: true
   collections: true
+title: Privacy, Security and Anonymity
+description: A project from the Anonymous Planet organization.
 theme: jekyll-theme-cayman
-title: "Privacy Security Anonnymity Community"
-description: "A Project of the Anonymous Planet Organization"
-tagline: Privacy Security Anonnymity Community
 author: AnonymousPlanet
 github:
   home_url: index.html
   license_url: LICENSE.html
+  repository_url: https://github.com/Anon-Planet
+  guide_url: https://anonymousplanet-ng.org
+  repository_name: Anonymous Planet
 defaults:
   -
     scope:
@@ -36,5 +39,3 @@ social:
     - https://mastodon.social/@anonymousplanet
 optional_front_matter:
   remove_originals: true
-exclude:
-
