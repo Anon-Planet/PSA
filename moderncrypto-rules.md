@@ -32,4 +32,4 @@ Modern Crypto is part of the PSA community. See the [chatroom rules](index.html)
 
 ---
 
-Join the PSA community: Join or [Privacy-Security-Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) a/k/a [P-S-A](https://matrix.to/#/#p-s-a:matrix.org) 
+Join the PSA community: Join [Privacy-Security-Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) or [P-S-A](https://matrix.to/#/#p-s-a:matrix.org) 
