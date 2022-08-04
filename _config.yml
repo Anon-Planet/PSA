@@ -11,15 +11,15 @@ relative_links:
   enabled: true
   collections: true
 title: Privacy, Security, and Anonymity
-description: A project from the Anonymous Planet organization.
+description: A community project from the Anonymous Planet organization.
 theme: jekyll-theme-cayman
 author: AnonymousPlanet
 github:
   home_url: index.html
   license_url: LICENSE.html
-  repository_url: https://github.com/Anon-Planet
+  repository_url: https://github.com/Anon-Planet/PSA
   guide_url: https://anonymousplanet-ng.org
-  repository_name: Anonymous Planet
+  repository_name: PSA
 defaults:
   -
     scope:
