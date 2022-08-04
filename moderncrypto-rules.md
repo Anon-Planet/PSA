@@ -1,8 +1,8 @@
 # Modern Crypto Rules
 
-This page documents the rules for my Matrix room, `#moderncrypto:gnuradio.org`.
+This page documents the rules for my Matrix room, [#ModernCrypto](https://matrix.to/#/#moderncrypto:gnuradio.org).
 
-Modern Crypto is part of the PSA community. See <https://psa.anonymousplanet-ng.org/chatrooms-rules.html>
+Modern Crypto is part of the PSA community. See the [chatroom rules](index.html).
 
 ---
 
@@ -32,4 +32,4 @@ Modern Crypto is part of the PSA community. See <https://psa.anonymousplanet-ng.
 
 ---
 
-Join the PSA community: `#p-s-a:matrix.org` or `#privacy-security-anonymity:matrix.org`
+Join the PSA community: Join [Privacy-Security-Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) or [P-S-A](https://matrix.to/#/#p-s-a:matrix.org) 
