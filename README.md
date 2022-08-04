@@ -74,7 +74,8 @@ This means that those PSA bans are effectively applied on all those rooms and ca
 
 ### Ban Appeals:<a name="appeals"></a>
 - **(Preferred)** Please DM the mods or admins of the room in question on Matrix to state your case for appealing.
-- You may also contact us by e-mail to <anonypla@mailfence.com> to state your case. You may use our PGP public signature (<https://github.com/Anon-Planet/thgtoa/blob/master/42FF35DB9DE7C088AB0FD4A70C216A52F6DF4920.asc>) to encrypt e-mails. Do not forget to attach your PGP puclic key if you want an encrypted answer). **Only use this option if you are unable to contact the mods/admins on Matrix**.
+- You may also contact us by e-mail to <anonypla@mailfence.com> to state your case.
+- You may use our [public PGP key](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/42FF35DB9DE7C088AB0FD4A70C216A52F6DF4920.asc) to encrypt e-mails. Do not forget to attach your public key if you want an encrypted answer). **Only use this option if you are unable to contact the mods/admins on Matrix**.
 
 ### Mods of PSA community (in no particular order):<a name="mods"></a>
 - [Babba27](https://matrix.to/#/@memorysafetybelike:envs.net) (Admin)
