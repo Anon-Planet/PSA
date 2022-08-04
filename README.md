@@ -14,6 +14,7 @@ You will find here the default rules for the rooms part of the PSA Community.
 - [Exceptions](#exceptions)
 - [PSA Bans](#psabans)
 - [Ban Appeals](#appeals)
+- [Mods](#mods)
 
 ### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
 These are currently only enforced on **Anonymity**, **Security**, and **#PSA-Offtopic** and not applied on rooms with their own ruleset below.
@@ -43,12 +44,12 @@ Some exceptions can apply, see the [exceptions](#exceptions) section at the bott
 - Be respectful
 
 ### Rules for Modern Cryptography:<a name="moderncrypto"></a>
-See <https://psa.anonymousplanet-ng.org/moderncrypto-rules.html>
+See [rules here](moderncrypto-rules.html).
 
 ### Rules for OS Security:<a name="ossecurity"></a>
-See <https://artemislena.eu/coc.html>
+See [rules here](https://artemislena.eu/coc.html).
 
-#### Rules for Bnonymity:<a name="bnonymity"></a>
+### Rules for Bnonymity:<a name="bnonymity"></a>
 - Keep it legal (seriously)
 - English only (no Russian, no Chinese, English only)
 - Be "somewhat" respectful to each other
@@ -58,20 +59,32 @@ See <https://artemislena.eu/coc.html>
 - No NSFW content (no Porn, no Gore, no Hentai...)
 - All of the above can result in an insta-ban depending on the severity
 
-#### Exceptions:<a name="exceptions"></a>
+### Exceptions:<a name="exceptions"></a>
 
-##### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
+#### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
 
-#### PSA Bans:<a name="psabans"></a>
+### PSA Bans:<a name="psabans"></a>
 Currently, the following rooms are sharing a common PSA banlist for serious offenders:
-- #Anonymity
-- #Security
-- #Bnonymity
-- #ModernCrypto
+- [#Anonymity](https://matrix.to/#/#anonymity:matrix.org)
+- [#Security](https://matrix.to/#/#security:matrix.org)
+- [#Bnonymity](https://matrix.to/#/#bnonymity:matrix.org)
+- [#ModernCrypto](https://matrix.to/#/#moderncrypto:gnuradio.org)
 
-This means that those PSA bans are effectively applied on all those rooms and can be issued by admins of these rooms. See the next section for information about appeals.
+This means that those PSA bans are effectively applied on all those rooms and can be issued by mods of these rooms. See the next section for information about appeals.
 
-#### Ban Appeals:<a name="appeals"></a>
+### Ban Appeals:<a name="appeals"></a>
 - **Please contact the mods or admins of the room in question to state your case for appealing.**
+
+### Mods of PSA community (in no particular order):<a name="mods"></a>
+- [Babba27](https://matrix.to/#/@memorysafetybelike:envs.net) (Admin)
+- [michelle](https://matrix.to/#/@michelle:privacytech.xyz) (Admin)
+- [minji](https://matrix.to/#/@minji:monero.social) (Admin)
+- I'm Sorry Dave (bot)
+- [deejayhu](https://matrix.to/#/@deejayyhu:matrix.org)
+- [antisec-](https://matrix.to/#/@antisec-:matrix.org)
+- [fractal](https://matrix.to/#/@fractal:matrix.org)
+- [bob99](https://matrix.to/#/@bob99:tchncs.de)
+- [Rick Deckard](https://matrix.to/#/@2sixty3fifty4:envs.net)
+- [The Hidden](https://matrix.to/#/@thehidden:tchncs.de)
