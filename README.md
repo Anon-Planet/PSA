@@ -1,5 +1,3 @@
-**PSA: A project by the Anonymous Planet organization.**
-
 ## Community Matrix chatrooms rules:
 
 You will find here the default rules for the rooms part of the PSA Community. 

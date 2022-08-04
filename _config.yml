@@ -6,11 +6,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-optional-front-matter
-  - "jekyll-github-metadata"
+  - jekyll-github-metadata
 relative_links:
   enabled: true
   collections: true
-title: Privacy, Security and Anonymity
+title: Privacy, Security, and Anonymity
 description: A project from the Anonymous Planet organization.
 theme: jekyll-theme-cayman
 author: AnonymousPlanet
