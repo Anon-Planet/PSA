@@ -15,7 +15,7 @@ You will find here the default rules for the rooms part of the PSA Community.
 - [Mods](#mods)
 
 ### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
-These are currently only enforced on **Anonymity**, **Security**, and **#PSA-Offtopic** and not applied on rooms with their own ruleset below.
+These are currently only enforced on **#Anonymity:matrix.org**, **#Security:matrix.org**, **#OSINT:matrix.org**, and **#PSA-Offtopic:matrix.org** and not applied on rooms with their own ruleset below.
 
 - Keep it legal
 - English only
