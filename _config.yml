@@ -13,9 +13,9 @@ relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-cayman
-tagline: Privacy Security Anonnymity Community
+tagline: Privacy Security Anonymity Community
 author: Anonymous Planet
-title: "Privacy Security Anonnymity Community"
+title: "Privacy Security Anonymity Community"
 description: "A Project of the Anonymous Planet Organization"
 github:
   home_url: index.html
