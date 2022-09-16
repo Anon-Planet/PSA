@@ -14,7 +14,7 @@ You will find here the default rules for the rooms part of the PSA Community.
 - [Ban Appeals](#appeals)
 
 #### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
-These are currently enforced on **```#anonymity:matrix.org```**, **```#security:matrix.org```**, **```#OSINT:matrix.org```**, and not applied on rooms with their own ruleset below.
+These are currently enforced on **```#anonymity:matrix.org```**, **```#security:matrix.org```**, **```#OSINT:matrix.org```**, **```#thgtoa-collab:matrix.org```, and not applied on rooms with their own ruleset below.
 
 - Keep it legal
 - English only
@@ -28,8 +28,7 @@ These are currently enforced on **```#anonymity:matrix.org```**, **```#security:
 - No NSFW content (no Porn, no Gore, no Hentai...)
 - No upload of any non-media files (binaries, executables, compressed files...)
 - No voice messages (these will be auto-deleted by the bots)
-- **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
-- **Any discussion about AnonyPla / Lena whereabouts is only tolerated, to an extent, in the ```#Bnonymity:matrix.org``` room.**
+- **Avoid drifting too much off-topic or move to an off-topic room like #psa-offtopic ,or #bnonymity**
 
 Some exceptions can apply, see the [exceptions](#exceptions) section at the bottom of this page. Violations will be handled at the discretion of the acting moderator.
 
@@ -61,6 +60,7 @@ See <https://artemislena.eu/coc.html>
 ##### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
+- **Any discussion about AnonyPla / Lena whereabouts is only tolerated, to an extent, in the ```#Bnonymity:matrix.org``` room.**
 
 #### PSA Bans:<a name="psabans"></a>
 Currently, the following rooms are sharing a common PSA banlist for serious offenders:
@@ -69,8 +69,14 @@ Currently, the following rooms are sharing a common PSA banlist for serious offe
 - ```#Bnonymity:matrix.org```
 - ```#OSINT:matrix.org```
 - ```#ModernCrypto:gnuradio.org```
+- ```#thgtoa-collab:matrix.org```
 
 This means that those PSA bans are effectively applied on all those rooms and can be issued by admins of these rooms. See the next section for information about appeals.
 
 #### Ban Appeals:<a name="appeals"></a>
 - **Please contact the mods or admins of the room in question to state your case for appealing.**
+- You may also contact the admins using the following e-mail: appeals@anonymousplanet.org
+
+#### Abuse:<a name="abuse"></a>
+- **Please contact the mods or admins of the room in question to report abuse.**
+- You may also contact the admins using the following e-mail: abuse@anonymousplanet.org
