@@ -81,7 +81,7 @@ Everyone has a right to appeal a ban once (and only once) no matter the ban reas
 
 #### Abuse:<a name="abuse"></a>
 
-**This is ONLY for reporting moderation abuse. Do not use this contact lightly and without proofs**.
+**This is ONLY for reporting moderation abuse. Do not use this contact lightly or without proof**. Mods are expected to act in a capacity that is both fair and respectful. Abuse is taken very seriously. Please report all violations by mods.
 - **Please contact the other mods or admins of the room in question to report moderation abuse.**
 - You may also contact the admins using the following e-mail: abuse@anonymousplanet.org (warning, this e-mail might be received by the accused mod, but as it is the case for any laws/rules: **"Everyone has the right to face their accuser"** just as any accused person has the right to defend themself.
 
