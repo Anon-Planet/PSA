@@ -37,7 +37,7 @@ These are currently enforced on **```#anonymity:matrix.org```**, **```#security:
 
 #### Serious Offenses:<a name="serious"></a>
 Some exceptions can apply. Violations will be handled at the discretion of the acting moderator or admin.
-- Zero tolerance for discussion inciting illicit, unethical, hate acts. It is however permitted to discuss these acts as part of a discussion but without actively engaging in inciting or committing those.
+- Zero tolerance for inciting illicit, immoral or unethical acts. It is however permitted to discuss these without actively engaging in, or committing, the acts themselves. Try to stay on topic in the room.
   - *Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal.*
 - Any CSAM type offense will result in a permanent ban without a possibility of appeal.
   
