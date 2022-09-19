@@ -42,7 +42,7 @@ Some exceptions can apply. Violations will be handled at the discretion of the a
 - Any CSAM type offense will result in a permanent ban without a possibility of appeal.
   
 #### Special Rules for Anonymity room:<a name="anon"></a>
-- **Any** discussion about AnonyPla/Lena's whereabouts is not tolerated but will be tolerated, to an extent, in the ```#Bnonymity:matrix.org``` room.
+- **Any** discussion about AnonyPla/Lena's whereabouts is not tolerated in any capacity except in ```#bnonymity:matrix.org```.
 -  Talks about Sci-Hub and/or LibGen, Z-lib, etc. are allowed in this room.
 
 #### Rules for Modern Cryptography (```#moderncrypto:gnuradio.org```):<a name="moderncrypto"></a>
