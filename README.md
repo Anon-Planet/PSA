@@ -76,7 +76,7 @@ This means that those PSA bans are effectively applied on all those rooms and ca
 - You may also contact the admins using the following e-mail: appeals@anonymousplanet.org
 
 Everyone has a right to appeal a ban once (and only once) no matter the ban reason. If the appeal is denied, the user will remain banned without the possibility of a new appeal. If the appeal is granted, the user can be unbanned: 
-  - Probation: this means any violation (even small ones) will void the appeal and end-up un a permanent ban without the possibility of a new appeal. 
+  - Probation: this means any violation (even small ones) will void the appeal and end in a permanent ban (across PSA) without the possibility of a new appeal. 
   - Full grant: the appeal is granted without conditions.
 
 #### Abuse:<a name="abuse"></a>
