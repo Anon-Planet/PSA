@@ -28,7 +28,7 @@ These are currently enforced on **```#anonymity:matrix.org```**, **```#security:
 - No hate speech
 - If asked, please respect someone's pronouns)
 - No spam
-- No doxxing (unless specificaly requested by the person, which you should then take to a DM).
+- No doxxing (unless specifically requested by the person, which you should then take to a DM)
 - No trolling (this doesn't mean sarcasm is forbidden)
 - No NSFW content (no Porn, no Gore, no Hentai)
 - No upload of any non-media files (binaries, executables, archives, etc.)
