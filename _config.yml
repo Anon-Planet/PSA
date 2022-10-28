@@ -1,0 +1,47 @@
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-github-metadata
+optional_front_matter:
+  remove_originals: true
+relative_links:
+  enabled: true
+  collections: true
+theme: jekyll-theme-cayman
+tagline: Privacy Security Anonymity Community
+author: Anonymous Planet
+title: "Privacy Security Anonymity Community"
+description: "A Project by the Anonymous Planet Organization"
+github:
+  home_url: index.html
+  license_url: LICENSE.html
+  repository_url: https://github.com/Anon-Planet/PSA
+  guide_url: https://anonymousplanet.org
+  repository_name: PSA
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: default
+      sitemap: true
+locale: "en-US"
+author:
+  name: Anonymous Planet
+social:
+  name: Anonymous Planet
+  links:
+    - https://twitter.com/AnonyPla
+    - https://github.com/Anon-Planet
+    - https://matrix.to/#/#privacy-security-anonymity:matrix.org
+    - https://mastodon.social/@anonymousplanet
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - .github
+    - .gitignore
