@@ -81,7 +81,7 @@ Please DM the PSA mods or admins of the room in question to state your case for 
 
 ### Admins:<a name="admins"></a>
 - Babba27: [@memorysafetybelike:envs.net](https://matrix.to/#/@memorysafetybelike:envs.net)
-- No: [@no:matrix.anonymousplanet.org](https://matrix.to/#/@no:matrix.anonymousplanet.org) [rsa4096/0xB208C4084A2C582D](https://keys.openpgp.org/vks/v1/by-fingerprint/D7939998F78BADB518C1B600B208C4084A2C582D)
+- No: [@no:matrix.anonymousplanet.org](https://matrix.to/#/@no:matrix.anonymousplanet.org) ([rsa4096/0xB208C4084A2C582D](https://keys.openpgp.org/vks/v1/by-fingerprint/D7939998F78BADB518C1B600B208C4084A2C582D))
 
 ### Registration:<a name="register"></a>
 
