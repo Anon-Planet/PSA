@@ -16,7 +16,7 @@ You will find here the default rules for the rooms part of the PSA Community.
 - [Registration](#register)
 
 ### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
-These are currently only enforced on **#Anonymity:matrix.org**, **#Security:matrix.org**, **#OSINT:matrix.org**, and **#PSA-Offtopic:matrix.org** and not applied on rooms with their own ruleset below.
+These are currently only enforced on **#Anonymity:matrix.anonymousplanet.org**, **#Security:matrix.anonymousplanet.org**, **#OSINT:matrix.anonymousplanet.org**, and **#psa-ot:matrix.anonymousplanet.org** and not applied on rooms with their own ruleset below.
 
 - Keep it legal
 - English only
@@ -66,13 +66,13 @@ See [rules here](https://artemislena.eu/coc.html).
 
 ### Bans:<a name="bans"></a>
 Currently, the following rooms are sharing a common PSA ban list for serious offenders:
-- [#Anonymity](https://matrix.to/#/#anonymity:matrix.org)
-- [#Translations](https://matrix.to/#/#thgtoa-translation:matrix.org)
-- [#Security](https://matrix.to/#/#security:matrix.org)
-- [#Bnonymity](https://matrix.to/#/#bnonymity:matrix.org)
-- [#ModernCrypto](https://matrix.to/#/#moderncrypto:gnuradio.org)
-- [#OSINT](https://matrix.to/#/#OSINT:matrix.org)
-- [#Collab](https://matrix.to/#/#thgtoa-collab:matrix.org)
+- [#Anonymity](https://matrix.to/#/#anonymity:matrix.anonymousplanet.org)
+- [#Translations](https://matrix.to/#/#thgtoa-translation:matrix.anonymousplanet.org)
+- [#Security](https://matrix.to/#/#security:matrix.anonymousplanet.org)
+- [#Bnonymity](https://matrix.to/#/#bnonymity:matrix.anonymousplanet.org)
+- [#ModernCrypto](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org)
+- [#OSINT](https://matrix.to/#/#OSINT:matrix.anonymousplanet.org)
+- [#Collab](https://matrix.to/#/#thgtoa-collab:matrix.anonymousplanet.org)
 
 This means that those PSA bans are effectively applied on all those rooms and can be issued by mods of those rooms. See the next section for information about appeals.
 

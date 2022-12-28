@@ -6,13 +6,13 @@ You will find here the default rules for the rooms part of the PSA Community.
 
 - [General Rules](#general)
 - [Nothing To Hide Privacy Room Rules](#nth)
-- [Modern Cryprography Room Rules](#moderncrypto)
+- [Modern Cryptography Room Rules](#moderncrypto)
 - [OS Security Room Rules](#ossecurity)
 - [Bnonymity Room Rules](#bnonymity)
 - [Exceptions](#exceptions)
-- [PSA Bans](#psabans)
+- [Bans](#bans)
 - [Ban Appeals](#appeals)
-- [Mods](#mods)
+- [Admins](#admins)
 - [Registration](#register)
 
 ### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
@@ -24,7 +24,7 @@ These are currently only enforced on **#Anonymity:matrix.org**, **#Security:matr
 - Avoid FUD and/or disinformation
 - Avoid gatekeeping and try to remain welcoming to new users
 - No hate speech (No racism, no homophobia, no transphobia, etc.)
-- No spam
+- No spammerino
 - No doxxing
 - No trolling (this doesn't mean sarcasm is forbidden)
 - No NSFW content (no Porn, no Gore, no Hentai, etc.)
@@ -64,7 +64,7 @@ See [rules here](https://artemislena.eu/coc.html).
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
 
-### PSA Bans:<a name="psabans"></a>
+### Bans:<a name="bans"></a>
 Currently, the following rooms are sharing a common PSA ban list for serious offenders:
 - [#Anonymity](https://matrix.to/#/#anonymity:matrix.org)
 - [#Translations](https://matrix.to/#/#thgtoa-translation:matrix.org)
@@ -77,23 +77,11 @@ Currently, the following rooms are sharing a common PSA ban list for serious off
 This means that those PSA bans are effectively applied on all those rooms and can be issued by mods of those rooms. See the next section for information about appeals.
 
 ### Ban Appeals:<a name="appeals"></a>
-Please DM the mods or admins of the room in question on Matrix to state your case for appeal.  
+Please DM the PSA mods or admins of the room in question to state your case for appeal.  
 
-You may also contact us by e-mail at <anonypla@mailfence.com> to state your case.  
-
-You may use our [public PGP key](https://anonymousplanet.org/42FF35DB9DE7C088AB0FD4A70C216A52F6DF4920.asc) to encrypt e-mails. (Do not forget to attach your public key if you want a response). Only use this option if you are unable to contact the mods/admins on Matrix.
-
-### Mods of PSA community (in no particular order):<a name="mods"></a>
-- Babba27: [@memorysafetybelike:envs.net](https://matrix.to/#/@memorysafetybelike:envs.net) / (Root Admin)
-- Dave: [@dave:matrix.anonymousplanet.org](https://matrix.to/#/@dave:matrix.anonymousplanet.org) I'm Sorry Dave (bot)
-- Deejayyhu: [@deejayyhu:matrix.org](https://matrix.to/#/@deejayyhu:matrix.org) (local mod)
-- Rick Deckard: [@2sixty3fifty4:envs.net](https://matrix.to/#/@2sixty3fifty4:envs.net) / [@rick:matrix.anonymousplanet.org](https://matrix.to/#/@rick:matrix.anonymousplanet.org) (Admin)
-- The Hidden: [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de) / [@hidden:matrix.anonymousplanet.org](https://matrix.to/#/@hidden:matrix.anonymousplanet.org) (Admin)
-- <del>Antisec-: [@antisec-:matrix.org](https://matrix.to/#/@antisec-:matrix.org)</del>
-- <del>Fractal: [@fractal:matrix.org](https://matrix.to/#/@fractal:matrix.org)</del>
-- <del>Bob99: [@bob99:tchncs.de](https://matrix.to/#/@bob99:tchncs.de)</del>
-- <del>[michelle](https://matrix.to/#/@michelle:privacytech.xyz)</del> (Admin, currently unavailable)
-- <del>[minji](https://matrix.to/#/@minji:monero.social)</del> (Admin, currently unavailable)
+### Admins:<a name="admins"></a>
+- Babba27: [@memorysafetybelike:envs.net](https://matrix.to/#/@memorysafetybelike:envs.net)
+- No: [@no:matrix.anonymousplanet.org](https://matrix.to/#/@no:matrix.anonymousplanet.org) ([rsa4096/0xB208C4084A2C582D](https://keys.openpgp.org/vks/v1/by-fingerprint/D7939998F78BADB518C1B600B208C4084A2C582D))
 
 ### Registration:<a name="register"></a>
 
