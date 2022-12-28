@@ -1,6 +1,6 @@
 # Modern Crypto Rules
 
-This page documents the rules for my Matrix room, [`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:gnuradio.org).
+This page documents the rules for my Matrix room, [`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org).
 
 Modern Crypto is part of the PSA community. See <https://anonymousplanet.org/chatrooms-rules.html>
 
@@ -23,7 +23,7 @@ Modern Crypto is part of the PSA community. See <https://anonymousplanet.org/cha
 - No soliciting donations
 - No NSFW content (no Porn, no Gore, no Hentai…)
 - No pedophilia
-- Avoid drifting too much off-topic or move to an off-topic room like [`#bnonymity`](https://matrix.to/#/#bnonymity:matrix.org)
+- Avoid drifting too much off-topic or move to an off-topic room like [`#bnonymity`](https://matrix.to/#/#bnonymity:matrix.anonynmousplanet.org)
 - *We are not lawyers. Behavior not covered by these rules may be handled at the discretion of any acting moderator(s).*
   - *We enforce the spirit of the rules, not the letter.*
   - *Citing technicalities or imprecisions in the definitions of rules won't save you.*
