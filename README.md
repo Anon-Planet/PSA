@@ -1,6 +1,6 @@
 ## Community Matrix chatroom rules
 
-You will find here the default rules for the rooms part of the PSA Community.
+You will find here the default rules for the rooms part of the [PSA Community](https://matrix.to/#/#privacy-security-anonymity:matrix.org).
 
 **Note:** Rooms which are part of the community keep their sovereignty and can apply their own local rules, each with their own local moderation. Some of the rooms are following the general rules, but some are not.
 
