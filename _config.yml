@@ -23,7 +23,7 @@ github:
   repository_url: https://github.com/Anon-Planet/PSA
   guide_url: https://anonymousplanet.org
   repository_name: PSA
-  tor_mirror_url: http://7k57mkdxg5i6argim2zmb6ldwel67cno3dbvse4yhnj6ajd3tdhogbqd.onion/
+  tor_mirror_url: http://7k57mkdxg5i6argim2zmb6ldwel67cno3dbvse4yhnj6ajd3tdhogbqd.onion
 defaults:
   -
     scope:
