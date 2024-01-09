@@ -45,7 +45,7 @@ Some exceptions can apply, see the [exceptions](#exceptions) section at the bott
 - Be respectful
 
 #### Mods
-- Lucas: [@lucas:coinfundit.com](https://matrix.to/#/@lucas:coinfundit.com) (new)
+- rawr: [@rawr:beeper.com](https://matrix.to/#/@rawr:beeper.com)
 - Prox: [@the_proxster:midov.pl](https://matrix.to/#/@the_proxster:midov.pl) (basically God)
 
 ### Rules for Modern Cryptography<a name="moderncrypto"></a>
