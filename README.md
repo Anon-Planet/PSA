@@ -1,6 +1,6 @@
 ## Community Matrix chatroom rules
 
-You will find here the default rules for the rooms part of the [PSA Community](https://matrix.to/#/#privacy-security-anonymity:matrix.org).
+You will find here the default rules for the rooms part of the [PSA Community](https://matrix.to/#/#psa:anonymousplanet.net). Please migrate from the old Matrix space to the new one.
 
 **Note:** Rooms which are part of the community keep their sovereignty and can apply their own local rules, each with their own local moderation. Some of the rooms are following the general rules, but some are not.
 
@@ -16,8 +16,8 @@ You will find here the default rules for the rooms part of the [PSA Community](h
 - [Ban Appeals](#appeals)
 
 ### Admins<a name="admins"></a>
-- Babba27: [@memorysafetybelike:envs.net](https://matrix.to/#/@memorysafetybelike:envs.net)
-- No: [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de) ([rsa4096/0xB208C4084A2C582D](https://keys.openpgp.org/vks/v1/by-fingerprint/D7939998F78BADB518C1B600B208C4084A2C582D))
+- Babba27: [@babba27:anonymousplanet.net](https://matrix.to/#/@babba27:anonymousplanet.net)
+- No: [@nope:anonymousplanet.net](https://matrix.to/#/@nope:anonymousplanet.net) ([PGP](https://keyoxide.org/hkp/nopenothinghere%40proton.me))
 
 ### General default rules for PSA rooms **unless specific rules are mentioned below**<a name="general"></a>
 These are currently only enforced on **#Anonymity**, **#Security**, **#OSINT**, and **#psa-ot** and are NOT applied in rooms with their own rules below.
@@ -74,19 +74,19 @@ See [rules here](https://artemislena.eu/coc.html).
 
 ### Bans<a name="bans"></a>
 Currently, the following rooms are sharing a common PSA ban list for serious offenders:
-- [#Anonymity](https://matrix.to/#/#anonymity:matrix.anonymousplanet.org)
-- [#Translations](https://matrix.to/#/#thgtoa-translation:matrix.anonymousplanet.org)
-- [#Security](https://matrix.to/#/#security:matrix.anonymousplanet.org)
-- [#Bnonymity](https://matrix.to/#/#bnonymity:matrix.anonymousplanet.org)
-- [#ModernCrypto](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org)
-- [#OSINT](https://matrix.to/#/#OSINT:matrix.anonymousplanet.org)
-- [#Collab](https://matrix.to/#/#thgtoa-collab:matrix.anonymousplanet.org)
+- [#Anonymity](https://matrix.to/#/#anonymity:anonymousplanet.net)
+- [#Translations (i18n)](https://matrix.to/#/#translations:anonymousplanet.net)
+- [#Security](https://matrix.to/#/#security:anonymousplanet.net)
+- [#Bnonymity](https://matrix.to/#/#bnonymity:anonymousplanet.net)
+- [#ModernCrypto](https://matrix.to/#/#moderncrypto:anonymousplanet.net)
+- [#OSINT](https://matrix.to/#/#osint:anonymousplanet.net)
+- [Nothing To Hide Privacy Chat](https://matrix.to/#/#nth-main:anonymousplanet.net)
 
 This means that those PSA bans are effectively applied in all of those rooms and can be issued by mods. See the next section for information about appeals.
 
 ### Registration<a name="register"></a>
 
-Effective operation of any network requires the administrators and operators to perform at their peak. To do this, we must enure we can provide the best services possible to those in the network. Unfortunately, we are closed to registration for now. This is likely to change after a while, when everything is in order and we have the network infrastructure to maintain it. 
+Effective operation of any network requires the administrators and operators to perform at their peak. To do this, we must enure we can provide the best services possible to those in the network. Registration has been enabled. You can register on the homeserver using this temporary token: ```0QW5P~L_II1uTE72```
 
 ### Ban Appeals<a name="appeals"></a>
 Please DM the PSA mods or admins of the room in question to state your case for appeal.
