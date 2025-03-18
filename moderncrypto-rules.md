@@ -32,4 +32,4 @@ Modern Crypto is part of the PSA community. See <https://anonymousplanet.org/cha
 
 ---
 
-Join the PSA community: [`#p-s-a:matrix.org`](https://matrix.to/#/#p-s-a:matrix.org) or [`#privacy-security-anonymity:matrix.org`](https://matrix.to/#/#privacy-security-anonymity:matrix.org)
+Join the PSA community: [`#p-s-a:matrixDOTorg`](https://matrix.to/#/#p-s-a:matrix.org) or [`#privacy-security-anonymity:matrixDOTorg`](https://matrix.to/#/#privacy-security-anonymity:matrix.org)
