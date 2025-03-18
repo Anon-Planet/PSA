@@ -1,12 +1,12 @@
 # Modern Crypto Rules
 
-This page documents the rules for [`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org).
+This page documents the rules for
+[`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org).
 
-Modern Crypto is part of the PSA community. See <https://anonymousplanet.org/chatrooms-rules.html>
+Modern Crypto is part of the PSA community. See
+[here](https://psa.anonymousplanet.org/) for those rules.
 
----
-
-### Rules
+## Rules
 
 - Keep it legal
 - English only
@@ -22,14 +22,18 @@ Modern Crypto is part of the PSA community. See <https://anonymousplanet.org/cha
 - No voice messages (these will be auto-deleted by the bots)
 - **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
 
-*We are not lawyers. Behavior not covered by these rules may be handled at the discretion of any acting moderator(s).*
+*We are not lawyers. Behavior not covered by these rules may be handled at the
+discretion of any acting moderator(s).*
 
 *We enforce the spirit of the rules, not the letter.*
 
-*Citing technicalities or imprecisions in the definitions of rules won't save you.*
+*Citing technicalities or imprecisions in the definitions of rules won't save
+you.*
 
 **Violations of these rules may result in a PSA-wide ban.**
 
 ---
 
-Join the PSA community: [`#p-s-a:matrixDOTorg`](https://matrix.to/#/#p-s-a:matrix.org) or [`#privacy-security-anonymity:matrixDOTorg`](https://matrix.to/#/#privacy-security-anonymity:matrix.org)
+Join the PSA community: `#p-s-a:matrix.org`
+or
+`#privacy-security-anonymity:matrix.org`
