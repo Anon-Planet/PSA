@@ -4,11 +4,7 @@ Here are the rules for rooms part of the
 [PSA Community](https://anonymousplanet.org/index.html). They are being archived
 for posterity's sake.
 
-**Warning: We have moved away from Matrix. Please avoid it as it contains
-harmful (illegal) spam. We are *not* moderating the rooms in PSA at present. It
-is likely that we will see a complete move away from Matrix in the future. Also,
-the space links here are no longer clickable. Copy/paste the links at your own
-peril.**
+**Warning: We have moved away from Matrix for the time being. Please feel free to reach out by email or Matrix at our personal MXIDs. We apologize for this.**
 
 - [Admins](#admins)
 - [General Rules](#general)
