@@ -1,7 +1,7 @@
 # Community Matrix chatroom rules
 
 Here are the rules for rooms part of the
-[PSA Community](https://anonymousplanet.org/index.html). They are being archived
+[PSA Community](https://anonymousplanet.net/). They are being archived
 for posterity's sake.
 
 **Warning: We have moved away from Matrix for the time being. Please feel free to reach out by email or Matrix at our personal MXIDs. We apologize for this.**
@@ -19,9 +19,9 @@ for posterity's sake.
 
 ### Admins {#admins}
 
-- Babba27: <theheadlessserpentsec@protonmail.com> (see:
+- Babba27: <@daskolburn:thomcat.rocks> (see:
   [Keyoxide](https://keyoxide.org/2974C1175BF81E46BC4898306D21A9D9F47CC1C8))
-- No: <no@anonymousplanet.org> (see:
+- No: <@thehidden:tchncs.de> (see:
   [https://itsnothing.net/crypto.txt](https://itsnothing.net/crypto.txt),
   [Keyoxide](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1))
 
@@ -89,13 +89,13 @@ See rules [here](https://artemislena.eu/coc.html).
 Currently, the following rooms are sharing a common PSA ban list for serious
 offenders:
 
-- #Anonymity: https://matrix.to/#/#anonymity:matrix.anonymousplanet.org
-- #Translations: https://matrix.to/#/#thgtoa-translation:matrix.anonymousplanet.org
-- #Security: https://matrix.to/#/#security:matrix.anonymousplanet.org
-- #Bnonymity: https://matrix.to/#/#bnonymity:matrix.anonymousplanet.org
-- #ModernCrypto: https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org
-- #OSINT: https://matrix.to/#/#OSINT:matrix.anonymousplanet.org
-- #Collab: https://matrix.to/#/#thgtoa-collab:matrix.anonymousplanet.org
+- #Anonymity: https://matrix.to/#/#anonymity:matrix.anonymousplanet.net
+- #Translations: https://matrix.to/#/#thgtoa-translation:matrix.anonymousplanet.net
+- #Security: https://matrix.to/#/#security:matrix.anonymousplanet.net
+- #Bnonymity: https://matrix.to/#/#bnonymity:matrix.anonymousplanet.net
+- #ModernCrypto: https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.net
+- #OSINT: https://matrix.to/#/#OSINT:matrix.anonymousplanet.net
+- #Collab: https://matrix.to/#/#thgtoa-collab:matrix.anonymousplanet.net
 
 These rooms have **not** been archived but the links to them **must** be manually
 copy/pasted.

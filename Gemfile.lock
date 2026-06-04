@@ -302,8 +302,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-github-metadata (~> 2.13)
-  jekyll-optional-front-matter
   webrick (~> 1.7)
 
 BUNDLED WITH

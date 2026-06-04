@@ -1,10 +1,10 @@
 # Modern Crypto Rules
 
 This page documents the rules for
-[`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.org).
+[`#moderncrypto:gnuradio.org`](https://matrix.to/#/#moderncrypto:matrix.anonymousplanet.net).
 
 Modern Crypto is part of the PSA community. See
-[here](https://psa.anonymousplanet.org/) for those rules.
+[here](https://psa.anonymousplanet.net/) for those rules.
 
 ## Rules
 
